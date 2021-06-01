@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+mani/test/qa/MyFirstProgram.java
+ mani.test.qa.MyFirstProgram
