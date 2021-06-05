@@ -1,0 +1,4 @@
+mani/test/qa/SquareTest.java
+ mani.test.qa.SquareTest
+mani/test/qa/RectangleTest.java
+ mani.test.qa.RectangleTest
