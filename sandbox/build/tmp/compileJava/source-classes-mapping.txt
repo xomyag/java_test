@@ -1,6 +1,6 @@
-mani/test/qa/Square.java
- mani.test.qa.Square
-mani/test/qa/Rectangle.java
- mani.test.qa.Rectangle
 mani/test/qa/MyFirstProgram.java
  mani.test.qa.MyFirstProgram
+mani/test/qa/Rectangle.java
+ mani.test.qa.Rectangle
+mani/test/qa/Square.java
+ mani.test.qa.Square
