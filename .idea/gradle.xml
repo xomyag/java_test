@@ -12,6 +12,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sandbox" />
+            <option value="$PROJECT_DIR$/sandbox/homework.lesson1" />
           </set>
         </option>
       </GradleProjectSettings>
